@@ -46,7 +46,7 @@ def intro():
     print ("\nYour shower was too hot and you burnt your back. "
     "\n\nYou have to go to the hospital!")
   elif choice in answer_C:
-    print ("\nYou'rethe only one who made it into the office today. "
+    print ("\nYou're the only one who made it into the office today. "
     "\n\nYour manager was so impressed he offered you a promotion. "
 		"\n\n\nCongratulations!")
   else:
